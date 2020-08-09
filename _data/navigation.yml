@@ -4,9 +4,9 @@ main:
     url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "About"
     url: https://www.tvnz.co.nz/one-news/new-zealand
-   - title: "Sample Posts"
+  - title: "Sample Posts"
     url: /year-archive/
-   - title: "Sample Collections"
+  - title: "Sample Collections"
     url: /collection-archive/
-   - title: "Sitemap"
+  - title: "Sitemap"
     url: /sitemap/
