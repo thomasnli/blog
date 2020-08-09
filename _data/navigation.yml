@@ -5,8 +5,8 @@ main:
   - title: "About"
     url: https://www.tvnz.co.nz/one-news/new-zealand
    - title: "Sample Posts"
-     url: /year-archive/
+    url: /year-archive/
    - title: "Sample Collections"
-     url: /collection-archive/
+    url: /collection-archive/
    - title: "Sitemap"
-     url: /sitemap/
+    url: /sitemap/
