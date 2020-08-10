@@ -33,6 +33,10 @@ masthead_title           : # overrides the website title displayed in the masthe
 search                   : true
 search_full_content      : true 
 
+# Table of contents
+toc: true
+toc_label: "My Table of Contents"
+toc_icon: "cog"
 
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
