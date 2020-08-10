@@ -1,11 +1,17 @@
-categories: 
-  - Blog
+---
+title: "first article"
+excerpt: "Hello world!"
+category: 
+  - test1
+  - test2
+  - test 3
 tags:
-  - Blog
-  - Cloud
-  - Azure
-  - AzureCLI
-  
+  - tag1
+  - tag2
+  - tag3
+
+---
+
 # Dillinger
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
