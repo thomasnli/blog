@@ -1,5 +1,5 @@
 ---
-title: "first article"
+title: "firstpage"
 excerpt: "Hello world!"
 category: 
   - test1
